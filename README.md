@@ -4,7 +4,7 @@
 *:warning: Importante:* escribir nombre y número de estudiante en la línea siguiente:  
 - Nombre: Nicolas Trombotti  
 - Número de estudiante: 267736
-
+commit5 Merge
 ## Parte A
 
 Dada la siguiente imagen de un grafo de depedencias entre ramas de un repositorio git se pide:
