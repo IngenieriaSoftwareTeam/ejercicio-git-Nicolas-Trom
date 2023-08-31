@@ -18,6 +18,8 @@ Dada la siguiente imagen de un grafo de depedencias entre ramas de un repositori
 - Cada nodo es un commit (usar como mensaje el número de commit)
 - Hay tres ramas con su nombre correspondiente
 
+commit3
+commit4
 **Escribir la secuencia de comandos en un issue GitHub con el nombre "Parte A"**
 
 ## Parte B
